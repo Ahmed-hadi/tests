@@ -1,0 +1,27 @@
+html {
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: none;
+}
+
+body, button, input, select, textarea { font-family: 'Open Sans', sans-serif; color: #333; }
+
+a { color: #12C; }
+a:visited { color: #61C; }
+a:focus { outline: thin dotted; }
+a:hover, a:active { color: #c00; outline: 0; }
+
+b, strong { font-weight: bold; }
+pre, code { font-family: monospace, monospace; font-size: 1em; }
+
+img { border: 0; max-width: 100%; }
+
+body { background: #fff; }
+
+footer {
+  padding: 0 0.5em;
+  border-top: 1px solid #ccc;
+}
+footer span { float: right; font-style: italic; }

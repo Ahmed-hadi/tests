@@ -1,0 +1,6 @@
+[udacity web-performance optimization course]https://www.udacity.com/course/viewer#!/c-ud884-nd
+[Optimize CSS Delivery](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery)
+[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- 
+and www.stackoverflow.com
+
